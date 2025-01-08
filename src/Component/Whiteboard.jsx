@@ -195,7 +195,7 @@ const Whiteboard = () => {
             canvasWidth={canvasDimensions.width}
             canvasHeight={canvasDimensions.height}
             brushColor={brushColor}
-            lazyRadius={5}
+            lazyRadius={1}
             brushRadius={brushRadius}
             hideGrid={true}
             backgroundColor={backgroundColor} // Set the background color here
